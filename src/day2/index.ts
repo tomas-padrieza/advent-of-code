@@ -66,8 +66,6 @@ const goB = (input: string) => {
     total += multi
   })
 
-  console.log(checkLines)
-
   return total
 }
 
